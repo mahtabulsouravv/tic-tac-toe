@@ -1,20 +1,23 @@
-# PyQt Calculator  
+# PyQt Tic Tac Toe  
 
-A sleek and functional calculator application built using **PyQt**, perfect for everyday arithmetic operations. This project demonstrates the power of PyQt for creating intuitive and visually appealing GUI applications in Python.  
+A fun and interactive **Tic Tac Toe** game built using **PyQt**! This project showcases a simple yet engaging GUI-based implementation of the classic game, making it a great example of PyQt's capabilities for building user-friendly desktop applications.  
 
 ## ✨ Features  
-- **User-friendly Interface**: Simple, clean, and easy to use.  
-- **Core Functionality**: Perform basic arithmetic operations including addition, subtraction, multiplication, and division.  
-- **Error Handling**: Displays appropriate error messages for invalid inputs (e.g., division by zero).  
+- **Interactive Gameplay**: Play against a friend in a two-player mode.  
+- **Intuitive Design**: Simple and visually appealing user interface.  
+- **Error-Free Moves**: Prevents overwriting already marked cells.  
+- **Winning Logic**: Automatically detects and highlights the winner.  
+- **Reset Option**: Restart the game with a single click.  
 - **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.  
 - **Customizable**: The code is modular and easy to extend for additional functionalities.  
 
 ## 🛠️ Technologies Used  
-- **Python**: The core programming language for logic implementation.  
-- **PyQt**: The GUI framework for creating the interface.  
+- **Python**: The core programming language for implementing game logic.  
+- **PyQt**: Used for building the graphical user interface (GUI).  
 
-## 🎥 App Preview  
-[Click this link for the app preview!](https://drive.google.com/file/d/1UVKBn65UbeFBY90RTomzcQbr3sHgepbt/view?usp=sharing) 
+## 🎥 App Preview 
+![Tic Tac Toe](https://github.com/mahtabulsouravv/tic-tac-toe/blob/main/Preview.PNG) </br>
+## [Click Here!](https://drive.google.com/file/d/1UVKBn65UbeFBY90RTomzcQbr3sHgepbt/view?usp=sharing) 
 
 ## 🚀 Getting Started  
 1. Clone the repository:  
@@ -33,4 +36,3 @@ A sleek and functional calculator application built using **PyQt**, perfect for 
    ```bash
    python TicTacToe.py
    ```
-
