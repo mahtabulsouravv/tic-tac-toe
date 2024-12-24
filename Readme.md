@@ -13,8 +13,9 @@ A sleek and functional calculator application built using **PyQt**, perfect for 
 - **Python**: The core programming language for logic implementation.  
 - **PyQt**: The GUI framework for creating the interface.  
 
-## 🎥 App Preview  
-[Click this link for the app preview!](https://drive.google.com/file/d/1UVKBn65UbeFBY90RTomzcQbr3sHgepbt/view?usp=sharing) 
+## 🎥 App Preview 
+![Tic Tac Toe](https://github.com/mahtabulsouravv/tic-tac-toe/blob/main/Preview.PNG) </br>
+## [Click Here!](https://drive.google.com/file/d/1UVKBn65UbeFBY90RTomzcQbr3sHgepbt/view?usp=sharing) 
 
 ## 🚀 Getting Started  
 1. Clone the repository:  
