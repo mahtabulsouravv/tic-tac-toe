@@ -37,4 +37,4 @@ This project showcases a simple yet engaging GUI-based implementation of the cla
    python TicTacToe.py
    ```  
 
-Enjoy playing! 🎲🔥 Let me know if you need any more modifications! 🚀
+Enjoy playing! 🎲🔥 Let me know if you need any more modifications! 
